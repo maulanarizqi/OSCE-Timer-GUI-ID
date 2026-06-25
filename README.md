@@ -9,7 +9,7 @@ This application is a modification of Quinexus's original CLI-based project, fea
 
 Cara Penggunaan (Tanpa Install Python):
 
-Pergi ke halaman [Releases] [(kasih link halaman rilis kamu).](https://github.com/maulanarizqi/OSCE-Timer-GUI-ID/releases/tag/OSCE)]
+Pergi ke halaman [(https://github.com/maulanarizqi/OSCE-Timer-GUI-ID/releases/tag/OSCE)]
 
 Download file osce.exe.
 
